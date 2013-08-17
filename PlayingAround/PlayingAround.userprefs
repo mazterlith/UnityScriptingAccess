@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GravityPull.cs">
+    <Files>
+      <File FileName="Assets\RotationController.cs" Line="8" Column="1" />
+      <File FileName="Assets\LookController.cs" Line="5" Column="2" />
+      <File FileName="Assets\GravityPull.cs" Line="12" Column="40" />
+      <File FileName="Assets\BehaviorHandler.cs" Line="23" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
